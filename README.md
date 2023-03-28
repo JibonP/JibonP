@@ -7,11 +7,11 @@ I'm a pursuit fellow and full stack developer who is passionate about learning a
 - 🌱 I'm currently learning JavaScript, CSS and HTML.
 - 💻 I'm pursuing a career in tech as a full stack developer.
 - 😄 Pronouns: He/Him
-- 🎓 fun fact: I went to college for Accounting from college.
 
 ## Fun Fact
 
 - 🎥 I'm a huge fan of anime and love to discuss it with others.
+- 🎓 I went to college for Accounting from college.
 
 ## Get in Touch
 
