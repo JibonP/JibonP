@@ -1,4 +1,4 @@
-# Hi there, I'm Jibon Paul 👋
+# Hi there 👋
 
 I'm a pursuit fellow and full stack developer who is passionate about learning and making the world a better place by making the internet easier to use. I'm currently focusing on learning JavaScript, CSS and HTML to improve my skills and contribute to the tech industry.
 
